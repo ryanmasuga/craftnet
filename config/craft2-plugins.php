@@ -133,6 +133,7 @@ return [
         'status' => 'Currently in development'
     ],
     'Link Vault' => [
+        'handle' => 'linkvault',
         'statusColor' => 'orange',
         'status' => 'Currently in development'
     ],
